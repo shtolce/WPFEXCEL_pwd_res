@@ -1,0 +1,26 @@
+﻿<Window x:Class="ExcelSheetProtection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExcelSheetProtection"
+        mc:Ignorable="d"
+        Title="Взлом защиты листов Excel" Height="150" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*">
+            </RowDefinition>
+            <RowDefinition Height="2*">
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Background="AntiqueWhite"></Label>
+        <DockPanel Grid.Row="1">
+            <Button Grid.Row="1" DockPanel.Dock="Left" Content="Open Excel File" Width="150"></Button>
+            <Button Grid.Row="1" DockPanel.Dock="Left" Content="Process Excel" Width="150"></Button>
+            <Button Grid.Row="1" DockPanel.Dock="Right" Content="Close Programm" Width="200"></Button>
+        </DockPanel>
+
+
+
+    </Grid>
+</Window>

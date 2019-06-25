@@ -1,0 +1,15 @@
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\bin\Debug\ExcelSheetProtection.exe.config
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\bin\Debug\ExcelSheetProtection.exe
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\bin\Debug\ExcelSheetProtection.pdb
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.csprojAssemblyReference.cache
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\MainWindow.g.cs
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\App.g.cs
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection_MarkupCompile.cache
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection_MarkupCompile.lref
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\MainWindow.baml
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.g.resources
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.Properties.Resources.resources
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.csproj.GenerateResource.cache
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.csproj.CoreCompileInputs.cache
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.exe
+D:\Git\excelSheetProtection\ExcelSheetProtection\ExcelSheetProtection\obj\Debug\ExcelSheetProtection.pdb
